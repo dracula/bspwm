@@ -2,21 +2,17 @@
 
 > A dark theme for [bspwm](https://github.com/baskerville/bspwm).
 
-![Screenshot](./screenshot.png "Monitor focused - Pink focus")
+**Pink accent color:**
 
-_Monitor focused, pink accent, focused node = top-left, preselection = bottom-right_
+![Screenshot](./screenshot.png "Monitor focused - Pink focus") | ![Screenshot unfocused monitor](./screenshot_unfocused_monitor.png "Monitor unfocused - Pink focus")
+--- | ---
+_Monitor focused, focused node = top-left, preselection = bottom-right_ | _Monitor unfocused, focused node = top-left, preselection = bottom-right_
 
-![Screenshot unfocused monitor](./screenshot_unfocused_monitor.png "Monitor unfocused - Pink focus")
+**Cyan accent color:**
 
-_Monitor unfocused, pink accent, focused node = top-left, preselection = bottom-right_
-
-![Screenshot cyan](./screenshot_cyan.png "Monitor focused - Cyan focus")
-
-_Monitor focused, cyan accent, focused node = top-left, preselection = bottom-right_
-
-![Screenshot cyan unfocused monitor](./screenshot_cyan_unfocused_monitor.png "Monitor unfocused - Cyan focus")
-
-_Monitor unfocused, cyan accent, focused node = top-left, preselection = bottom-right_
+![Screenshot cyan](./screenshot_cyan.png "Monitor focused - Cyan focus") | ![Screenshot cyan unfocused monitor](./screenshot_cyan_unfocused_monitor.png "Monitor unfocused - Cyan focus")
+--- | ---
+_Monitor focused, cyan accent, focused node = top-left, preselection = bottom-right_ | _Monitor unfocused, cyan accent, focused node = top-left, preselection = bottom-right_
 
 ## Install
 
