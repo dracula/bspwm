@@ -1,17 +1,28 @@
-### [X](http://link-to-x.com)
+### [bspwm](https://github.com/baskerville/bspwm)
 
-#### Install using Git
+#### Test first
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+You can easily test the theme, without the need to change and reload your [bspwm](https://github.com/baskerville/bspwm) config, by issuing four commands in your favorite terminal
 
-    $ git clone https://github.com/dracula/template.git
+```
+bspc config normal_border_color "#44475a"
+bspc config active_border_color "#bd93f9"
+bspc config focused_border_color "#ff79c6"
+bspc config presel_feedback_color "#6272a4"
+```
 
-#### Install manually
+You could also use **Cyan** as your _focus_ color and the **Comment** color for your _active_  node border.
+_Active means, the node is the focused one on an unfocused monitor_
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+```
+bspc config active_border_color "#6272a4"
+bspc config focused_border_color "#8be9fd"
+```
 
-#### Activating theme
+#### Make it permanent
 
-1. Do this
-2. Then that
-3. Boom! It's working
+To make it permanent, add the four lines mentioned in the previous section to your `bspwmrc`, which you can probably find under `~/.config/bspwm/bspwmrc` and reload [bspwm](https://github.com/baskerville/bspwm)
+
+```
+bspc wm -r
+```

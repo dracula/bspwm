@@ -1,20 +1,26 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [bspwm](https://github.com/baskerville/bspwm)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [bspwm](https://github.com/baskerville/bspwm).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.png "Monitor focused - Pink focus")
+
+![Screenshot unfocused monitor](./screenshot_unfocused_monitor.png "Monitor unfocused - Pink focus")
+
+![Screenshot cyan](./screenshot_cyan.png "Monitor focused - Cyan focus")
+
+![Screenshot cyan unfocused monitor](./screenshot_cyan_unfocused_monitor.png "Monitor unfocused - Cyan focus")
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/bspwm](https://draculatheme.com/bspwm).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![David Holland](https://avatars1.githubusercontent.com/u/15948716?s=460&v=4)](https://github.com/dustvoice) |
+--- |
+[David Holland](https://github.com/nesl247) |
 
 ## License
 
