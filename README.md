@@ -4,11 +4,19 @@
 
 ![Screenshot](./screenshot.png "Monitor focused - Pink focus")
 
+_Monitor focused, pink accent, focused node = top-left, preselection = bottom-right_
+
 ![Screenshot unfocused monitor](./screenshot_unfocused_monitor.png "Monitor unfocused - Pink focus")
+
+_Monitor unfocused, pink accent, focused node = top-left, preselection = bottom-right_
 
 ![Screenshot cyan](./screenshot_cyan.png "Monitor focused - Cyan focus")
 
+_Monitor focused, cyan accent, focused node = top-left, preselection = bottom-right_
+
 ![Screenshot cyan unfocused monitor](./screenshot_cyan_unfocused_monitor.png "Monitor unfocused - Cyan focus")
+
+_Monitor unfocused, cyan accent, focused node = top-left, preselection = bottom-right_
 
 ## Install
 
